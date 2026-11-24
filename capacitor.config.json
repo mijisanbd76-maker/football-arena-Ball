@@ -1,0 +1,8 @@
+{
+ "appId": "com.footballarena.app",
+ "appName": "Football Arena",
+ "webDir": "www",
+ "server": {
+  "androidScheme": "https"
+ }
+}
